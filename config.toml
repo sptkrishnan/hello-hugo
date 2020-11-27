@@ -1,9 +1,9 @@
 baseURL = "/"
 languageCode = "en-us"
 
-title = "Hello Hugo"
-name = "John Doe"
-description = "hello, world"
+title = "Dr. Krishnan Saidapet"
+name = "S. P. T. Krishnan"
+description = "sptkrishnan.com"
 
 theme = "mainroad"
 paginate = "10"
